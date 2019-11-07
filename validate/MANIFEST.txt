@@ -1,0 +1,7 @@
+Name: valid
+Specification-Title: Classes for text validation
+Specification-Version: 1.0
+Specification-Vendor: curtisnewbie org
+Implementation-Title: valid
+Implementation-Version: build123
+Implementation-Vendor: curtiesnewbie org

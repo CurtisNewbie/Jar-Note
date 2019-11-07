@@ -1,5 +1,5 @@
-# Compiled class file
-*.class
+# Compiled class file, intended to include .class files
+# *.class
 
 # Log file
 *.log
@@ -10,8 +10,8 @@
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
-# Package Files #
-*.jar
+# Package Files, intended to include .jar file #
+# *.jar
 *.war
 *.nar
 *.ear

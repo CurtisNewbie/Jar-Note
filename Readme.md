@@ -1,13 +1,14 @@
 # Note of Jar and Javac commands:
+<h4> URLs </h4>
 
-URL: <a href="https://docs.oracle.com/javase/tutorial/deployment/jar/index.html">Oracle JavaSE Jar Tutorial </a>
-URL: <a href="https://stackoverflow.com/questions/5012125/javac-no-source-files-found">javac no source files found </a>
-URL: <a href="https://docs.oracle.com/javase/7/docs/technotes/tools/windows/javac.html">Oracle Javac Documentation </a>
-URL: <a href="https://docs.oracle.com/javase/7/docs/technotes/tools/windows/classpath.html">Oracle Class Path Documentation</a>
-URL: <a href="https://stackoverflow.com/questions/44172563/bad-class-file-using-javac">bad class file using javac </a>
-URL: <a href="http://command-line-wiki.github.io/compiling-programs/compiling-running-java-javac.html">CLI for Javac </a>
-URL: <a href="https://stackoverflow.com/questions/12718723/javac-error-package-x-does-not-exist-at-import-x/12718762">Parenthese for jar in different OS </a>
-URL: <a href="https://code.visualstudio.com/docs/java/java-project">Add jar in vscode </a>
+> <a href="https://docs.oracle.com/javase/tutorial/deployment/jar/index.html" target="_blank">Oracle JavaSE Jar Tutorial </a><br>
+> <a href="https://stackoverflow.com/questions/5012125/javac-no-source-files-found" target="_blank">javac no source files found </a><br>
+> <a href="https://docs.oracle.com/javase/7/docs/technotes/tools/windows/javac.html" target="_blank">Oracle Javac Documentation </a><br>
+> <a href="https://docs.oracle.com/javase/7/docs/technotes/tools/windows/classpath.html" target="_blank">Oracle Class Path Documentation</a><br>
+> <a href="https://stackoverflow.com/questions/44172563/bad-class-file-using-javac" target="_blank">bad class file using javac </a><br>
+> <a href="http://command-line-wiki.github.io/compiling-programs/compiling-running-java-javac.html" target="_blank">CLI for Javac </a><br>
+> <a href="https://stackoverflow.com/questions/12718723/javac-error-package-x-does-not-exist-at-import-x/12718762" target="_blank">Parenthese for jar in different OS </a><br>
+> <a href="https://code.visualstudio.com/docs/java/java-project" target="_blank">Add jar in vscode </a><br>
 
 <h4> To create jar </h4>
 

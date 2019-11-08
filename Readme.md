@@ -114,10 +114,10 @@ Create a .classpath file, and add following line in it:
 
 Package Versioning Information are provided in the MANIFEST.MF file as follows, none of these effect how the jar is imported. (I.e., import 'jar name'; )
 
-> Name: display/text/
-> Specification-Title: Classes for Text Display
-> Specification-Version: 1.0
-> Specification-Vendor: curtisnewbie org
-> Implementation-Title: display.text
-> Implementation-Version: build123
-> Implementation-Vendor: curtiesnewbie org
+> Name: display/text/ <br>
+> Specification-Title: Classes for Text Display <br>
+> Specification-Version: 1.0 <br>
+> Specification-Vendor: curtisnewbie org <br>
+> Implementation-Title: display.text <br>
+> Implementation-Version: build123 <br>
+> Implementation-Vendor: curtiesnewbie org <br>
